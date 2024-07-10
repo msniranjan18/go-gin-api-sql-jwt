@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"example.com/go-rest-api-sql-jwt/models"
+	"example.com/go-gin-api-sql-jwt/models"
 	"github.com/gin-gonic/gin"
 )
 

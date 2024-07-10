@@ -1,4 +1,4 @@
-module example.com/go-rest-api-sql-jwt
+module example.com/go-gin-api-sql-jwt
 
 go 1.22.3
 
